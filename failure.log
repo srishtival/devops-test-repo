@@ -1,0 +1,4 @@
+ERROR: Build failed due to missing dependency.
+ERROR: Test case failed.
+WARNING: Deployment retry initiated.
+ERROR: Docker image build failed.
